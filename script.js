@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais hhhhhhhh são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
     alternativas: [
         {
             texto:"Custos elevados",
@@ -21,7 +21,7 @@ const perguntas = [
 },
 
 {
-    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+    enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o raciiiiiiismo?",
     alternativas: [
         {
 
