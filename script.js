@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais hhhhhhh são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "Quais hhhhhhhh são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
     alternativas: [
         {
             texto:"Custos elevados",
