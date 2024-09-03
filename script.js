@@ -7,14 +7,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
+    enunciado: "tem duas cadeiras, uma contem um bolo e na outra uma pica, qual vc escolhe?",
     alternativas: [
         {
-            texto:"Custos elevados",
+            texto:"senta na pica e comer o bolo",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"sentar no bolo e chupar a pica",
         afirmacao: "afirmação 2"
         }
     ]
